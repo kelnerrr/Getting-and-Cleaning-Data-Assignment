@@ -1,4 +1,4 @@
-# Getting and Cleaning Data - Assignment
+Getting and Cleaning Data - Assignment
 ========================================
 
 In this repository you'll find the R code and the documentation for the Coursera's Getting and Cleaning Data project assignment.
